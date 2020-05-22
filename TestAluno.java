@@ -46,7 +46,7 @@ public class TestAluno {
         System.out.println("d = " + d);
         System.out.println("e = " + e);
 
-        Aluno f = new Aluno("Sofia",201704877);
+        Aluno f = new Aluno("Sofia", 201704877);
 
         Aluno g = new Aluno("Ana", 201408762);
         Aluno h = new Aluno("Bruno", 201508145);
